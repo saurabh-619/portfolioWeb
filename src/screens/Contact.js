@@ -25,19 +25,29 @@ const Contact = () => {
               <a
                 href="https://www.linkedin.com/in/saurabh-bomble-954321171/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <i className="fab fa-linkedin-in"></i>
               </a>
               <a
                 href="https://www.instagram.com/saurabh_bomble619/"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <i className="fab fa-instagram"></i>
               </a>
-              <a href="https://github.com/saurabh-619" target="_blank">
+              <a
+                href="https://github.com/saurabh-619"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fab fa-github"></i>
               </a>
-              <a href="mailto:saurabhbomble1011@gmail.com" target="_top">
+              <a
+                href="mailto:saurabhbomble1011@gmail.com"
+                target="_top"
+                rel="noopener noreferrer"
+              >
                 <i className="fas fa-envelope"></i>
               </a>
             </div>

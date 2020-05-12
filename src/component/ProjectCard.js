@@ -3,7 +3,7 @@ const ProjectCard = ({ name, desc, imageUrl, url }) => {
   return (
     <div className="proj-card " data-aos="fade-up">
       <div className="proj-img text-center">
-        <img src={imageUrl} />
+        <img src={imageUrl} alt="project" />
       </div>
       <div className="proj-content text-center">
         <h1 className="proj-name">{name}</h1>

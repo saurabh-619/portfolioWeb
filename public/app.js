@@ -27,3 +27,20 @@ AOS.init({
   easing: "ease", // default easing for AOS animations
   once: true, // whether animation should happen only once - while scrolling down
 });
+
+// Hamburger menu
+const ham = document.querySelector("#mobile .hamburger");
+const navLinks = document.querySelector("#mobile .nav-links");
+const link = document.querySelectorAll("#mobile .nav-links li");
+
+ham.addEventListener("click", () => {
+  navLinks.classList.toggle("open");
+  link.forEach((lin) => lin.classList.toggle("fade"));
+});
+
+link.forEach((lin) => {
+  lin.addEventListener("click", () => {
+    navLinks.classList.toggle("open");
+    link.forEach((lin) => lin.classList.toggle("fade"));
+  });
+});

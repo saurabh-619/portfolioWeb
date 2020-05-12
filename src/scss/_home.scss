@@ -53,10 +53,13 @@
   border-radius: 50%;
   background-color: rgba($color: $my-title, $alpha: 0.3);
   display: none;
-
+  transition: all 0.2s ease;
   & i {
     font-size: 1.8rem;
     color: $my-bg;
+  }
+  &:hover {
+    background-color: rgba($color: $my-title, $alpha: 0.7);
   }
 }
 .show {

@@ -54,16 +54,5 @@
         }
       }
     }
-    &::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: 0;
-      background-color: rgba($color: #f50057, $alpha: 0.9);
-      width: 100%;
-      height: 99%;
-      z-index: -1;
-      clip-path: circle(82.9% at 100% 0);
-    }
   }
 }

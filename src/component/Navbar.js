@@ -1,5 +1,4 @@
 import React from "react";
-import { Link, withRouter } from "react-router-dom";
 const Navbar = ({ history }) => {
   return (
     <div>
@@ -36,41 +35,37 @@ const Navbar = ({ history }) => {
 
       {/* Hamburger Menu */}
 
-      <div className="menu-wrap">
-        <input type="checkbox" className="toggler" />
-        <div className="hamburger">
-          <div></div>
-        </div>
-        <div className="menu">
-          <div>
-            <div>
-              <ul>
-                <li>
-                  <a href="#about" className="link">
-                    About
-                  </a>
-                </li>
-                <li>
-                  <a href="#projects" className="link">
-                    Projects
-                  </a>
-                </li>
-                <li>
-                  <a href="#achievements" className="link">
-                    Achievements
-                  </a>
-                </li>
-                <li>
-                  <a href="#contact" className="link">
-                    Contact
-                  </a>
-                </li>
-              </ul>
-            </div>
+      <div id="mobile">
+        <div className="hamburger-wrapper">
+          <div className="hamburger">
+            <div className="line"></div>
+            <div className="line"></div>
+            <div className="line"></div>
           </div>
         </div>
+        <ul className="nav-links">
+          <li>
+            <a href="#about" className="link">
+              About
+            </a>
+          </li>
+          <li>
+            <a href="#projects" className="link">
+              Projects
+            </a>
+          </li>
+          <li>
+            <a href="#achievements" className="link">
+              Achievements
+            </a>
+          </li>
+          <li>
+            <a href="#contact" className="link">
+              Contact
+            </a>
+          </li>
+        </ul>
       </div>
-
       {/*  */}
     </div>
   );
