@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap");
+
+@import "config";
+@import "helper";
+@import "navbar";
+@import "home";
+@import "about";
+@import "project";
+@import "achievements";
+@import "contact";
+@import "footer";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, Raleway, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-y: scroll;
+}
