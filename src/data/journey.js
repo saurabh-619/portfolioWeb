@@ -10,7 +10,7 @@ const journey = {
   degree: {
     topic: "College",
     text:
-      "Currently, I am a Second Year, Computer Engineering undergrad in PCCOE. In the first year of engineering, I'd barely passed the subjects related to Computer. I used to find C, C++ languages were difficult to understand and would love to read all subject but related to computer. So in nutshell, I didn't learn anything about coding in the very First year of engineering.",
+      "Currently, I am a Second Year, Computer Engineering undergrad in PCCOE. In the first year of engineering, I'd barely passed the subjects related to Computer. I used to find C, C++ languages very difficult to understand and would love to read all subject but related to computer. So in nutshell, I didn't learn anything about coding in the very First year of engineering.",
     date: "2018 - 2022",
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/2f068da619b996fe313ea51d9b10c9af9774fadc/journey/degree.svg",
