@@ -44,16 +44,14 @@ div#mobile {
   nav .nav-brand a h1 {
     font-size: 1.5rem;
   }
+
   // New Navbar
   div#mobile {
     display: block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 2;
+    // z-index: 2;
 
     & .hamburger-wrapper {
-      position: absolute;
+      position: fixed;
       top: 0rem;
       right: 0.3rem;
       height: 12vh;
@@ -62,7 +60,7 @@ div#mobile {
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      z-index: 2;
+      z-index: 3;
       & .hamburger {
         display: flex;
         flex-direction: column;
@@ -89,13 +87,17 @@ div#mobile {
       }
     }
     & .nav-links {
+      position: fixed;
+      top: 0;
+      right: 0;
+      height: 100vh;
+      width: 100vw;
+      z-index: 2;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       list-style: none;
-      height: 100vh;
-      width: 100vw;
       background: #5b78c7;
       clip-path: circle(100px at 115% -13%);
       transition: 1s all ease-out;
@@ -128,5 +130,9 @@ div#mobile {
         opacity: 1;
       }
     }
+  }
+
+  .nav-links-wrapper {
+    display: none;
   }
 }

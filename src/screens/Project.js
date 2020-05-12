@@ -29,15 +29,13 @@ const Project = () => {
           Flutter developement. Developement in both environment was a challenge
           initially, but I survived somehow.
         </p>
-        <div className="view-button">
-          <a
-            href="https://github.com/saurabh-619"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Github
-          </a>
-        </div>
+        <a
+          href="https://github.com/saurabh-619"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <div className="view-button">Github</div>
+        </a>
       </div>
       <div className="web">
         <div className="border-wrapper" data-aos="fade-up">
