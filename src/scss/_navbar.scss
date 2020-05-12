@@ -48,14 +48,7 @@ div#mobile {
   // New Navbar
   div#mobile {
     display: block;
-<<<<<<< HEAD
     // z-index: 2;
-=======
-    position: fixed;
-    top: 0;
-    left: 0;
-   // z-index: 2;
->>>>>>> 82a1b1e99e7c42b580639b6edba2c94f71da2423
 
     & .hamburger-wrapper {
       position: fixed;
@@ -67,11 +60,7 @@ div#mobile {
       flex-direction: column;
       justify-content: center;
       align-items: center;
-<<<<<<< HEAD
       z-index: 3;
-=======
-      //z-index: 2;
->>>>>>> 82a1b1e99e7c42b580639b6edba2c94f71da2423
       & .hamburger {
         display: flex;
         flex-direction: column;
@@ -111,7 +100,7 @@ div#mobile {
       list-style: none;
       background: #5b78c7;
       clip-path: circle(100px at 115% -13%);
-      transition: 1s all ease-out;
+      transition: 0.9s all ease-out;
       & li {
         margin: 1rem 0;
         opacity: 0;
