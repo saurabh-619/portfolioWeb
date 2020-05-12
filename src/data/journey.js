@@ -10,7 +10,7 @@ const journey = {
   degree: {
     topic: "College",
     text:
-      "Currently, I am a Second Year, Computer Engineering undergrad in PCCOE. In the first year of engineering, I'd barely passed the subjects related to Computer. I used to find C, C++ languages were difficult to understand and would love to read all subject but related to computer. So in nutshell, I didn't learn anything about coding in the very First year of engineering.",
+      "Currently, I am a Second Year, Computer Engineering undergrad in PCCOE. In the first year of engineering, I'd barely passed the subjects related to Computer. I used to find C, C++ languages very difficult to understand and would love to read all subject but related to computer. So in nutshell, I didn't learn anything about coding in the very First year of engineering.",
     date: "2018 - 2022",
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/2f068da619b996fe313ea51d9b10c9af9774fadc/journey/degree.svg",
@@ -18,7 +18,7 @@ const journey = {
   web: {
     topic: "Web Developement",
     text:
-      "In the second year of engineering, I saw some of the websites made by my batchmates, I found those very fascinating, intuitive, and thought I should also learn Web Development. So here my Web journey got started. I learned HTML, CSS, SASS, JS for Front-End, and Nodejs, Mongo Db for Back-End. This took me like 4-5 months. These were tough months, reading through documents, StackOverflow for errors. But still, I managed to create some interesting projects. I learned React Js which was a major bump in Design and speed of coding.",
+      "In the second year of engineering, I saw some of the websites made by my batchmates, I found those very fascinating, intuitive, and thought I should also learn Web Development. So here my Web journey got started. I learned HTML, CSS, SASS, JS for Front-End, and Nodejs, Mongo Db for Back-End. This took me like 4-5 months. Those were tough months, reading through documents, StackOverflow for errors. But still, I managed to create some interesting projects. I learned React Js which was a major bump in Design and speed of coding.",
     date: "2020",
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/2f068da619b996fe313ea51d9b10c9af9774fadc/journey/webdeve.svg",
