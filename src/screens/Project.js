@@ -25,7 +25,7 @@ const Project = () => {
       <div className="section-intro" data-aos="fade-up">
         <h1 className="section-title">See My Projects</h1>
         <p className="desc-section">
-          This are some of my projects that I implemented during my Web And
+          These are some of my projects that I implemented during my Web And
           Flutter developement. Developement in both environment was a challenge
           initially, but I survived somehow.
         </p>
