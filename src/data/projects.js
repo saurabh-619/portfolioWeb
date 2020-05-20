@@ -42,6 +42,14 @@ const app = [
       "https://raw.githubusercontent.com/saurabh-619/images/master/shortify.png",
     url: "https://drive.google.com/open?id=1D9xOe7euRVMkDIg27gOPZAqnoJrvD0Tn",
   },
+  {
+    name: "HomieGram",
+    desc:
+      "HomieGram is an Instagram clone that provides you all features like add , like, comment a post. You can also follow people. When a person like, comment a post, the person receives a notification of their device.",
+    imageUrl:
+      "https://raw.githubusercontent.com/saurabh-619/images/master/homiegramlogo.png",
+    url: "https://drive.google.com/open?id=1D9xOe7euRVMkDIg27gOPZAqnoJrvD0Tn",
+  },
 ];
 
 module.exports = { web, app };
