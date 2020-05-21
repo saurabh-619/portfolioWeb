@@ -48,7 +48,7 @@ const app = [
       "HomieGram is an Instagram clone that provides you all features like add , like, comment a post. You can also follow people. When a person like, comment a post, the person receives a notification of their device.",
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/master/homiegramlogo.png",
-    url: "https://drive.google.com/open?id=1Er6L1-nxrbYMTdzoII8TgEkH1UbiMar2",
+    url: "https://drive.google.com/file/d/1F5RHObk--rMBbY2dfThKqKTBxp557jcK/view?usp=drivesdk",
   },
 ];
 
