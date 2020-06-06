@@ -35,11 +35,11 @@ const web = [
 
 const app = [
   {
-    name: "Shortify",
+    name: "sbcart",
     desc:
-      "Shortify is a Inshorts clone with Real time News created using NEWS API. Shortify is developed with Google Flutter and UI is replica of Inshorts App.",
+      " sbcart is an e-commerce app made with Google\'s Flutter and Firebase. With sbcart a user can log-in. sbcart provides various categories mainly focused on Youth like clothing, watches, sunglasses, grooming, etc. Each category has many products which a user can add, remove from wishlist also can add, remove from the cart. Users can also make true/fake payments secured by Razorpay payment Gateway. All kinds of payment can be processed.",
     imageUrl:
-      "https://raw.githubusercontent.com/saurabh-619/images/master/shortify.png",
+      "https://raw.githubusercontent.com/saurabh-619/images/master/sbcart/logoSbcart.png",
     url: "https://drive.google.com/open?id=1D9xOe7euRVMkDIg27gOPZAqnoJrvD0Tn",
   },
   {
@@ -49,6 +49,14 @@ const app = [
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/master/homiegramlogo.png",
     url: "https://drive.google.com/file/d/1F5RHObk--rMBbY2dfThKqKTBxp557jcK/view?usp=drivesdk",
+  },
+    {
+    name: "Shortify",
+    desc:
+      "Shortify is a Inshorts clone with Real time News created using NEWS API. Shortify is developed with Google Flutter and UI is replica of Inshorts App.",
+    imageUrl:
+      "https://raw.githubusercontent.com/saurabh-619/images/master/shortify.png",
+    url: "https://drive.google.com/open?id=1D9xOe7euRVMkDIg27gOPZAqnoJrvD0Tn",
   },
 ];
 
