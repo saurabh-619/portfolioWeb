@@ -37,7 +37,7 @@ const app = [
   {
     name: "sbcart",
     desc:
-      " sbcart is an e-commerce app made with Google\'s Flutter and Firebase. With sbcart a user can log-in. sbcart provides various categories mainly focused on Youth like clothing, watches, sunglasses, grooming, etc. Each category has many products which a user can add, remove from wishlist also can add, remove from the cart. Users can also make true/fake payments secured by Razorpay payment Gateway. All kinds of payment can be processed.",
+      " sbcart is an e-commerce app made with Google\'s Flutter and Firebase. sbcart provides various categories mainly focused on Youth. Each category has many products which a user can add, remove from wishlist or cart. Users can also make true/fake payments secured by Razorpay payment Gateway. All kinds of payment can be processed.",
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/master/sbcart/logoSbcart.png",
     url: "https://drive.google.com/open?id=1D9xOe7euRVMkDIg27gOPZAqnoJrvD0Tn",
