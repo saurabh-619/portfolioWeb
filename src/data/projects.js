@@ -1,5 +1,13 @@
 const web = [
   {
+    name: "Sociogram",
+    desc:
+      "Sociogram is a twitter clone made with React-Redux-Firebase where a user can tweet the tweet, Like, Retweet with comment. A user can update his/her profile photo, location, bio, website. Web app also gives you real-time notifications.",
+    imageUrl:
+      "https://raw.githubusercontent.com/saurabh-619/images/master/Sociogram/sociogramLogo.png",
+    url: "https://sociogram-7c7f9.web.app/",
+  },
+  {
     name: "Caffeine Link",
     desc:
       "Caffeine Link is a Linkedin clone where you create your DEV profile and can add Profile-photo, education, experience, certificates. You can also add posts,  like the post, comment the post. Fetch your recent 5 github repositories.",
