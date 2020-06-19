@@ -6,15 +6,7 @@ const web = [
     imageUrl:
       "https://raw.githubusercontent.com/saurabh-619/images/master/Sociogram/sociogramLogo.png",
     url: "https://sociogram-7c7f9.web.app/",
-  },
-  {
-    name: "Caffeine Link",
-    desc:
-      "Caffeine Link is a Linkedin clone where you create your DEV profile and can add Profile-photo, education, experience, certificates. You can also add posts,  like the post, comment the post. Fetch your recent 5 github repositories.",
-    imageUrl:
-      "https://raw.githubusercontent.com/saurabh-619/images/master/caffeine.png",
-    url: "https://caffeine-link.herokuapp.com/",
-  },
+  }, 
   {
     name: "Caffeine Link",
     desc:
