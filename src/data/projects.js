@@ -43,6 +43,14 @@ const web = [
 
 const app = [
   {
+    name: "Covid19 Tracker",
+    desc:
+      "Covid19 Tracker is a detailed coronavirus outbreak tracking App for Indian States created using Flutter. It also provides visualization of Data using Flutter Charts. Theme by - Rendi Ramadana 🙌.",
+    imageUrl:
+      "https://raw.githubusercontent.com/saurabh-619/images/master/Covid19%20Tracker%20App/Covid19%20Tracker.png",
+    url: "https://drive.google.com/file/d/1JFm43RlvXWOEl2xLZBBsdaKmdpyMOOtC/view?usp=sharing",
+  },
+  {
     name: "sbcart",
     desc:
       " sbcart is an e-commerce app that provides various categories mainly focused on Youth.A user can add, remove products from wishlist or cart. Users can also make true/fake payments secured by Razorpay payment Gateway.",
