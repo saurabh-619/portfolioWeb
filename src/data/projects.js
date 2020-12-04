@@ -1,5 +1,13 @@
 const web = [
   {
+    name: "Project Tracker",
+    desc:
+      "Project Tracker is a web app used for tracking the progress of the added projects and sharing resources with project members. Co-creators - 1) Onkar Gaikar 2) Bhavansh Gupta 3) Shubham Chalekar",
+    imageUrl:
+      "https://raw.githubusercontent.com/saurabh-619/images/master/project%20tracker/logo.png",
+    url: "https://project-tracker-web.herokuapp.com/",
+  }, 
+  {
     name: "Sociogram",
     desc:
       "Sociogram is a twitter clone made with React-Redux-Firebase where a user can tweet the tweet, Like, Retweet with comment. A user can update his/her profile photo, location, bio, website. Web app also gives you real-time notifications.",
@@ -31,14 +39,7 @@ const web = [
       "https://raw.githubusercontent.com/saurabh-619/GitHubFinder.github.io/master/favicon.png",
     url: "https://saurabh-619.github.io/GitHubFinder.github.io/",
   },
-  {
-    name: "Dev Com",
-    desc:
-      "DEV COM is Node-express App for DEV Community for Jotting down the ideas and tips on Any kind of  development. .",
-    imageUrl:
-      "https://raw.githubusercontent.com/saurabh-619/DEVCom/master/public/favicon/android-chrome-512x512.png",
-    url: "https://devcom-sab.herokuapp.com/",
-  },
+  
 ];
 
 const app = [
