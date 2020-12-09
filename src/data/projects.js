@@ -4,7 +4,7 @@ const web = [
     desc:
       "Project Tracker is a web app used for tracking the progress of the added projects and sharing resources with project members. Co-creators - 1) Onkar Gaikar 2) Bhavansh Gupta 3) Shubham Chalekar.",
     imageUrl:
-      "https://raw.githubusercontent.com/saurabh-619/images/master/project%20tracker/logo.png",
+      "https://raw.githubusercontent.com/saurabh-619/images/63d1e205dfb8898c2cd32ceef2d035b535872561/project%20tracker/Logo%208.svg",
     url: "https://project-tracker-web.herokuapp.com/",
   }, 
   {
