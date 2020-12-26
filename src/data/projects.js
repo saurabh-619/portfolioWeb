@@ -8,6 +8,14 @@ const web = [
     url: "https://project-tracker-web.herokuapp.com/",
   }, 
   {
+    name: "KIRA Skin Cancer Foundation",
+    desc:
+      "KIRA Skin cancer is a React web app for the betterment of the Skin Cancer society!",
+    imageUrl:
+      "https://raw.githubusercontent.com/kiraproject/kira-skin-cancer/main/public/kira-skin-cancer.png",
+    url: "https://kira-skin-cancer.netlify.app/",
+  }, 
+  {
     name: "Sociogram",
     desc:
       "Sociogram is a twitter clone made with React-Redux-Firebase where a user can tweet the tweet, Like, Retweet with comment. A user can update his/her profile photo, location, bio, website. Web app also gives you real-time notifications.",
